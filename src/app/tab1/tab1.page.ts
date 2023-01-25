@@ -9,7 +9,7 @@ export class Tab1Page implements OnInit {
   constructor() {}
   ngOnInit(){
     let numero =10;
-    debugger;
+    //debugger;
     numero =20;
     numero= numero+10;
     numero=0;
